@@ -1,2 +1,2 @@
 # dahp
-Direct Alignment from Heterogeneous Preferences
+Direct Alignment with Heterogeneous Preferences
