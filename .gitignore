@@ -1,0 +1,6 @@
+Pew Research experiments/surveys/*
+*.DS_Store
+*/.idea/*
+*/.vscode/*
+*pyc
+Pew Research experiments/*.pdf
