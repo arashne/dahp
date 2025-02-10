@@ -2,7 +2,7 @@
 To reproduce the Pew Surveys Experiments,
 
 1. Install the required packages in `requirements.txt`.
-2. Download all the required Pew surveys (check the required files from the dictionary `SURVEYS` from `utils.constants`). See the links provided in the [Pew Research Surveys Datasets](#pew-research-surveys-datasets) section below.
+2. Download all the required Pew surveys (check the required files from the dictionary `SURVEYS` in `utils/constants.py`). See the links provided in the [Pew Research Surveys Datasets](#pew-research-surveys-datasets) section below.
 3. To reproduce Figure 1, run 
 ```
 python3 EV_plot.py
