@@ -1,0 +1,9 @@
+*.DS_STORE
+__pycache__
+.ipynb_checkpoints
+.idea
+*.pyc
+*.cpython-38.pyc
+venv
+figs
+data
